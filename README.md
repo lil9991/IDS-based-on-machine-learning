@@ -37,6 +37,8 @@ Beş farklı şekilde dataset üzerinde analizler yapıldı.
 
 Kaynaklar:
 
-[1] https://dergipark.org.tr/en/download/article-file/165615 [2] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-1004-8#ref-CR24 [3] https://medium.com/cuelogic-technologies/evaluation-of-machine-learning-algorithms-for-intrusion-detection-system-6854645f9211 [4] http://kdd.ics.uci.edu/databases/kddcup99/training_attack_types
-
+[1] https://dergipark.org.tr/en/download/article-file/165615
+[2] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-1004-8#ref-CR24 
+[3] https://medium.com/cuelogic-technologies/evaluation-of-machine-learning-algorithms-for-intrusion-detection-system-6854645f9211 
+[4] http://kdd.ics.uci.edu/databases/kddcup99/training_attack_types
 [5] https://datahub.io/machine-learning/kddcup99
