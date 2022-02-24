@@ -32,3 +32,11 @@ Beş farklı şekilde dataset üzerinde analizler yapıldı.
 4) Dataset içinde kategorik feature/sütun sayısı 3, bunlar ["service_num", "protocol_type", "flag_num"]. Bundan önceki eğtimlerde bu sütunları dahil edilmedi. Bu aşamada bu sütunlar nümerik değerlere dönüştürüldü ve featurer olarak sadece bu 3 sütun kullanılarak sınıflandırma yapıldı.
 
 5) Son olarak ise veri setini genel kategorilere göre sınıflandırıldı ve toplamda 5 sınıfım oldu. [normal, dos, u2r, r2l, probe] sınıfları. Buradaki amacım kategoriye göre nasil başar sergileyeceğinin gözlemlemek.
+
+
+
+Kaynaklar:
+
+[1] https://dergipark.org.tr/en/download/article-file/165615 [2] https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-1004-8#ref-CR24 [3] https://medium.com/cuelogic-technologies/evaluation-of-machine-learning-algorithms-for-intrusion-detection-system-6854645f9211 [4] http://kdd.ics.uci.edu/databases/kddcup99/training_attack_types
+
+[5] https://datahub.io/machine-learning/kddcup99
