@@ -1,7 +1,7 @@
 # IDS-based-on-machine-learning
 
-Makine Öğrenmesi Teknikleri ile Saldırı Tespiti
-Linda Türkmen
+# Makine Öğrenmesi Teknikleri ile Saldırı Tespiti
+
 Makine Öğrenmesi Teknikleriyle Saldırı Tespiti: Saldırı Tespit Sistemleri; İlk saldırı tespit sistemi konsepti Anderson tarafından 1980 yılında önerilmişti. saldırı tespit sisteminin görevini, bilgisayar sisteminde ya da ağ sisteminde gerçekleşen tüm olayları denetlemek ve kontrol etmek, güvenlik sorunları ortaya çıktığında ilgili personel ve birimleri uyarmak için alarm göndermek ve olası riskleri azaltmak için gerekli tedbirleri almak şeklinde tanımlamıştır. Saldırı tespit sisteminin çalışma döngüsünü bilgi toplama, analiz motoru ve cevap olarak üç başlık altında incelemiştir [1] .
 
 Ağ üzerinden yapılabilecek saldırılar aşağıdaki gibi sıralanabilir:
